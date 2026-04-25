@@ -39,3 +39,13 @@ The system predicts building energy usage based on operational and environmental
 ---
 
 ## 📊 System Architecture
+
+User Input (Streamlit UI)
+         ↓
+FastAPI Backend (/predict)
+         ↓
+Machine Learning Model
+         ↓
+Prediction Output (Energy Usage)
+         ↓
+Displayed in Dashboard
