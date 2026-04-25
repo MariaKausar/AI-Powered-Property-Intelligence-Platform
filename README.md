@@ -2,7 +2,7 @@
 
 An AI-powered system for predicting building energy consumption and supporting energy efficiency decisions aligned with UK Net Zero and MEES regulations.
 
----
+
 
 ## 🚀 Project Overview
 
@@ -15,7 +15,7 @@ This project demonstrates a complete end-to-end Machine Learning system that int
 
 The system predicts building energy usage based on operational and environmental parameters, helping stakeholders assess efficiency and potential compliance risks.
 
----
+
 
 ## 🎯 Key Features
 
@@ -25,7 +25,7 @@ The system predicts building energy usage based on operational and environmental
 - 🧠 End-to-end ML pipeline (data → model → deployment)  
 - 🏗 Scalable architecture for real-world energy systems  
 
----
+
 
 ## 🧠 Tech Stack
 
@@ -36,16 +36,8 @@ The system predicts building energy usage based on operational and environmental
 - **Data Handling:** Pandas, NumPy  
 - **Tools:** Git, GitHub  
 
----
+
 
 ## 📊 System Architecture
 
-User Input (Streamlit UI)
-         ↓
-FastAPI Backend (/predict)
-         ↓
-Machine Learning Model
-         ↓
-Prediction Output (Energy Usage)
-         ↓
-Displayed in Dashboard
+User Input (Streamlit UI)  ->  FastAPI Backend (/predict) -> Machine Learning Model -> Prediction Output (Energy Usage) -> Displayed in Dashboard
