@@ -41,3 +41,33 @@ The system predicts building energy usage based on operational and environmental
 ## 📊 System Architecture
 
 User Input (Streamlit UI)  ->  FastAPI Backend (/predict) -> Machine Learning Model -> Prediction Output (Energy Usage) -> Displayed in Dashboard
+
+
+
+## 🌍 Real-World Relevance
+
+This project is aligned with real-world industry needs, including:
+
+- UK Net Zero targets  
+- MEES (Minimum Energy Efficiency Standards)  
+- Smart building analytics  
+- Property and sustainability intelligence systems  
+
+
+
+## 💡 Future Improvements
+
+- Integration with real-world energy datasets  
+- MEES compliance scoring module  
+- Cloud deployment (Azure/AWS)  
+- Advanced ML models (XGBoost, Deep Learning)  
+- Time-series energy forecasting  
+
+---
+
+## 👩‍💻 Author
+
+**Maria Kausar**  
+AI Engineer | Machine Learning | NLP & Computer Vision  
+
+
