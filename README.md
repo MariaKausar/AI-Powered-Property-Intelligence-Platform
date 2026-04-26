@@ -8,12 +8,13 @@ An AI-powered system for predicting building energy consumption and supporting e
 
 This project demonstrates a complete end-to-end Machine Learning system that integrates:
 
-- Data generation & preprocessing  
-- Model training & evaluation  
-- REST API deployment (FastAPI)  
-- Interactive dashboard (Streamlit)  
+- Data generation and feature engineering
+- Machine Learning model training and evaluation
+- REST API deployment using FastAPI
+- Interactive dashboard using Streamlit
+- Business logic for energy efficiency and compliance analysis
 
-The system predicts building energy usage based on operational and environmental parameters, helping stakeholders assess efficiency and potential compliance risks.
+The system predicts building energy usage and provides cost estimation, EPC rating, MEES compliance status, and efficiency classification to support real-world property decision-making.
 
 
 
