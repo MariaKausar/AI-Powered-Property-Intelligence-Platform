@@ -65,13 +65,13 @@ Data-driven energy efficiency decision-making
 
 ## 💡 Future Improvements
 
-- Integration with real-world energy datasets  
-- MEES compliance scoring module  
-- Cloud deployment (Azure/AWS)  
-- Advanced ML models (XGBoost, Deep Learning)  
-- Time-series energy forecasting  
-
----
+- Integration with real-world smart meter energy datasets
+- Advanced ML models (XGBoost, Deep Learning)
+- Time-series energy forecasting
+- Cloud deployment (Azure / AWS)
+- Real property portfolio analytics dashboard
+- Automated MEES compliance reporting system
+  
 
 ## 👩‍💻 Author
 
