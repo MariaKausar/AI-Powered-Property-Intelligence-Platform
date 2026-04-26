@@ -44,14 +44,12 @@ The system predicts building energy usage and provides cost estimation, EPC rati
 
 ## 📊 System Architecture
 
-User Input (Streamlit UI)  ->  FastAPI Backend (/predict) -> Machine Learning Model -> Prediction Output (Energy Usage) -> Displayed in Dashboard
-
 User Input (Streamlit UI)
 → FastAPI Backend (/predict)
 → Machine Learning Model
 → Business Logic Layer (MEES + Cost + Efficiency)
 → JSON Response
-→ Dashboard Visualization
+→ Dashboard Visualisation
 
 ## 🌍 Real-World Relevance
 
