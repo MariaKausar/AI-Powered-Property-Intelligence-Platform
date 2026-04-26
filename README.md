@@ -33,12 +33,12 @@ The system predicts building energy usage and provides cost estimation, EPC rati
 
 ## 🧠 Tech Stack
 
-- **Languages:** Python  
-- **Machine Learning:** Scikit-learn  
-- **Backend API:** FastAPI  
-- **Frontend UI:** Streamlit  
-- **Data Handling:** Pandas, NumPy  
-- **Tools:** Git, GitHub  
+Languages: Python
+Machine Learning: Scikit-learn (RandomForestRegressor)
+Backend API: FastAPI
+Frontend UI: Streamlit
+Data Handling: Pandas, NumPy
+Tools: Git, GitHub  
 
 
 
