@@ -20,11 +20,14 @@ The system predicts building energy usage and provides cost estimation, EPC rati
 
 ## 🎯 Key Features
 
-- 🔍 Energy usage prediction using Machine Learning  
-- ⚡ Real-time predictions via FastAPI REST API  
-- 📊 Interactive Streamlit dashboard for user input & insights  
-- 🧠 End-to-end ML pipeline (data → model → deployment)  
-- 🏗 Scalable architecture for real-world energy systems  
+🔍 Energy usage prediction using Machine Learning
+💰 Energy cost estimation based on predicted usage
+🏷 EPC rating simulation (A–G scale)
+⚖ MEES compliance detection (Compliant / Non-Compliant)
+📊 Efficiency scoring system (Efficient / Inefficient)
+⚡ Real-time predictions via FastAPI REST API
+🖥 Interactive Streamlit dashboard
+🧠 End-to-end ML pipeline (data → model → deployment → insights)
 
 
 
