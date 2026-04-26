@@ -55,10 +55,11 @@ User Input (Streamlit UI)
 
 This project is aligned with real-world industry needs, including:
 
-- UK Net Zero targets  
-- MEES (Minimum Energy Efficiency Standards)  
-- Smart building analytics  
-- Property and sustainability intelligence systems  
+UK Net Zero targets
+MEES (Minimum Energy Efficiency Standards) compliance
+Smart building analytics
+Property and sustainability intelligence systems
+Data-driven energy efficiency decision-making
 
 
 
