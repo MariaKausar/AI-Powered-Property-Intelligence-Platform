@@ -1,4 +1,4 @@
-# 🏢 AI-Powered Property Intelligence Platform
+no# 🏢 AI-Powered Property Intelligence Platform
 
 An AI-powered system for predicting building energy consumption and supporting energy efficiency decisions aligned with UK Net Zero and MEES (Minimum Energy Efficiency Standards) regulations.
 
@@ -78,6 +78,7 @@ Data-driven energy efficiency decision-making
 
 **Maria Kausar**  
 AI Engineer | Machine Learning | NLP & Computer Vision   
+
 
 
 
