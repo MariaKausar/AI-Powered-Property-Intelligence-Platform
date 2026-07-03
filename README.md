@@ -77,7 +77,6 @@ Data-driven energy efficiency decision-making
 
 **Maria Kausar**  
 AI Engineer | Machine Learning | NLP & Computer Vision
-maria   
 
 
 
