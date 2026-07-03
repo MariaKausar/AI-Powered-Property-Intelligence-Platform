@@ -76,7 +76,8 @@ Data-driven energy efficiency decision-making
 ## 👩‍💻 Author
 
 **Maria Kausar**  
-AI Engineer | Machine Learning | NLP & Computer Vision   
+AI Engineer | Machine Learning | NLP & Computer Vision
+maria   
 
 
 
