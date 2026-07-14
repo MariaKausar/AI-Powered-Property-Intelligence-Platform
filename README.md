@@ -39,7 +39,6 @@ The system predicts building energy usage and provides cost estimation, EPC rati
 - Tools: Git, GitHub  
 
 
-
 ## 📊 System Architecture
 
 User Input (Streamlit UI)
