@@ -1,7 +1,7 @@
 # 🏢 AI-Powered Property Intelligence Platform
 
 An AI-powered system for predicting building energy consumption and supporting energy efficiency decisions aligned with UK Net Zero and MEES (Minimum Energy Efficiency Standards) regulations.
-
+ 
 ## 🚀 Project Overview
 
 This project demonstrates a complete end-to-end Machine Learning system that integrates:
